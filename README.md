@@ -33,4 +33,4 @@
 
 ### Contact
 
-**Email**: <font face="Consolas">jex.zucke@outlook.com</font>
+**Email**: <font face="Consolas">jex.zucker@outlook.com</font>

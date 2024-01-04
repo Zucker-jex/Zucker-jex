@@ -6,6 +6,10 @@
 - A rookie who likes to play music games
 - Play Rainbow Six Siege
 
+### Experience
+
+- University: Beijing Institute of Technology, Zhuhai
+
 ### Programming Languages
 
 - *Skilled*

@@ -12,23 +12,20 @@
 ### Programming Languages
 
 - **Skilled**
-  - Shell
-  - Python
   - C/C++
+  - Python
+  - Go
+  - Assembly(x86_64)
+- **General**
+  - TypeScript
+  - Cython
   - Verilog
   - VHDL
   - Lua
-- **General**
-  - Cython
-  - MATLAB
-  - SQL
-  - RenPy
-  - Go
 - **Basic**
-  - Ruby
+  - Assembly(LoongArch)
   - Rust
-  - php
-  - Java
+  - SQL
   - C#
 - **Previously Used**
   - Brainfuck (BF)
